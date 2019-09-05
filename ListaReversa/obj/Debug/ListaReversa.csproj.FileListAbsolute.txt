@@ -1,0 +1,7 @@
+C:\Users\517566\source\repos\ListaReversa\ListaReversa\bin\Debug\ListaReversa.exe.config
+C:\Users\517566\source\repos\ListaReversa\ListaReversa\bin\Debug\ListaReversa.exe
+C:\Users\517566\source\repos\ListaReversa\ListaReversa\bin\Debug\ListaReversa.pdb
+C:\Users\517566\source\repos\ListaReversa\ListaReversa\obj\Debug\ListaReversa.csprojAssemblyReference.cache
+C:\Users\517566\source\repos\ListaReversa\ListaReversa\obj\Debug\ListaReversa.csproj.CoreCompileInputs.cache
+C:\Users\517566\source\repos\ListaReversa\ListaReversa\obj\Debug\ListaReversa.exe
+C:\Users\517566\source\repos\ListaReversa\ListaReversa\obj\Debug\ListaReversa.pdb
